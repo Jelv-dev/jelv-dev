@@ -1,4 +1,40 @@
-## Hi there 👋
+# 👋 Hola, soy José León
+
+💻 **Desarrollador Web Junior** con formación en DAW y experiencia en prácticas en **NTT Data**, colaborando en un proyecto educativo de gran envergadura.  
+Me interesa crecer en entornos **Agile**, aportando soluciones reales y aprendiendo cada día.
+
+---
+
+## 🚀 Tecnologías
+- **Lenguajes:** Java, PHP, JavaScript (ES6), SQL  
+- **Frontend:** HTML5, CSS3, Bootstrap, (aprendiendo React y Angular)  
+- **Backend:** Java (Spring Boot en progreso), PHP  
+- **Bases de datos:** MySQL, Oracle  
+- **Otros:** Git, Docker (en formación), REST APIs, pruebas unitarias y testing automatizado  
+
+---
+
+## 📂 Proyectos destacados
+
+- ⚡ **Plataforma de gestión para comercializadora de electricidad**  
+  Proyecto académico full stack con roles (admin, supervisor, asesor), gestión de clientes, contratos y tarifas.  
+  👉 [Repositorio](https://github.com/tuusuario/comercializadora-electricidad)
+
+- 🌐 **API REST con Spring Boot** *(en progreso)*  
+  API para gestión de productos con CRUD, endpoints RESTful y documentación con Swagger.  
+
+- 📝 **Aplicación web en React** *(en progreso)*  
+  App de tareas con CRUD y consumo de API externa.  
+
+---
+
+## 📫 Conecta conmigo
+- [LinkedIn] (www.linkedin.com/in/jose-emiliano-leon-villace)  
+- 📧 jelv8@outlook.com  
+
+---
+
+✨ *“La simplicidad llevada al extremo se convierte en elegancia.”*  
 
 <!--
 **Jelv-dev/jelv-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
