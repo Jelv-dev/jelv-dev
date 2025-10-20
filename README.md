@@ -20,11 +20,7 @@ Me interesa crecer en entornos **Agile**, aportando soluciones reales y aprendie
   Proyecto académico full stack con roles (admin, supervisor, asesor), gestión de clientes, contratos y tarifas.  
   👉 [Repositorio](https://github.com/tuusuario/comercializadora-electricidad)
 
-- 🌐 **API REST con Spring Boot** *(en progreso)*  
-  API para gestión de productos con CRUD, endpoints RESTful y documentación con Swagger.  
-
-- 📝 **Aplicación web en React** *(en progreso)*  
-  App de tareas con CRUD y consumo de API externa.  
+- En construcción. 
 
 ---
 
