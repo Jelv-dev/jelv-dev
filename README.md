@@ -16,12 +16,18 @@ Me interesa crecer en entornos **Agile**, aportando soluciones reales y aprendie
 
 ## 📂 Proyectos destacados
 
-- ⚡ **Plataforma de gestión para comercializadora de electricidad**  
-  Proyecto académico full stack con roles (admin, supervisor, asesor), gestión de clientes, contratos y tarifas.  
-  👉 [Repositorio](https://github.com/tuusuario/comercializadora-electricidad)
+#### 1. 🌐 Web de Presentación (Full-Performance Landing Page)
+* **Objetivo Demostrado:** Fundamentos de *frontend* de élite, rendimiento 100/100 (SEO/Velocidad) y maquetación responsiva impecable.
+* **Stack:** Astro, Tailwind CSS. Despliegue en Vercel.
+* **[ENLACE DE DEMO]** | **[ENLACE DE REPOSITORIO]**
 
-- En construcción. 
 
+---
+
+### 🎓 Proyecto Académico Anterior
+* **Plataforma de Gestión para Comercializadora de Electricidad**
+    * *Descripción:* Proyecto académico *full stack* con roles (admin, supervisor, asesor), gestión de clientes, contratos y tarifas.
+    
 ---
 
 ## 📫 Conecta conmigo
