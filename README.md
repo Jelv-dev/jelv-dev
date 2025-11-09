@@ -19,7 +19,7 @@ Me interesa crecer en entornos **Agile**, aportando soluciones reales y aprendie
 #### 1. 🌐 Web de Presentación (Full-Performance Landing Page)
 * **Objetivo Demostrado:** Fundamentos de *frontend* de élite, rendimiento 100/100 (SEO/Velocidad) y maquetación responsiva impecable.
 * **Stack:** Astro, Tailwind CSS. Despliegue en Vercel.
-* **[ENLACE DE DEMO]** | **[ENLACE DE REPOSITORIO]**
+* **https://portfolio-1-web-landing.vercel.app** | **https://github.com/Jelv-dev/portfolio_1_web-landing.git**
 
 
 ---
